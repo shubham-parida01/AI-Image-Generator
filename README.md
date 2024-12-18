@@ -85,7 +85,7 @@ plt.show()
 - **Google Colab** for providing free GPU access.
 
 ## Link
-- Link for the [**Google Colab**][https://colab.research.google.com/drive/1O1qzBbj-BqVZd0vR6cAmggfw2kyzecm9?usp=sharing]
+- Link for the [**Google Colab**](https://colab.research.google.com/drive/1O1qzBbj-BqVZd0vR6cAmggfw2kyzecm9?usp=sharing)
 
 ## License
 This project is for educational and personal use. Please adhere to the terms and conditions provided by the libraries and models used.
