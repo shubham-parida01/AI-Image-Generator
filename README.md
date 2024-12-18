@@ -72,6 +72,9 @@ plt.show()
 2. Make sure your Colab runtime is set to GPU (T4 recommended).
 3. Run the cells and see the generated image based on the input prompt!
 
+## Sample Run
+![Generated Image](/images/sample-image.png)
+
 ## Notes
 - This project is a tutorial I created purely because I find these topics interesting and wanted to try text-to-image generation.
 
